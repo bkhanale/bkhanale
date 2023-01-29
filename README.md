@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- I'm Bhushan. I'm currently working at [BrowserStack](https://browserstack.com) as a
-Software Engineer.
-- I usually write a lot of Python, Ruby, C++ and Java. Although I'm trying to learn a few
-more languages.
-- I'm really interested in Devops.
-- Contact me for interesting projects, jobs, or just for a quick chat.
-- Connect with me on my email [hello@bhushankhanale.com](mailto:hello@bhushankhanale.com)
+- I am currently working at [BrowserStack](https://browserstack.com) as a Senior Software Engineer as a part of the Growth team.
+- In the Growth team, we spend most of the time experimenting and feature development to deliver enhancements that allow us to make informed product decisions and improve the customers' experience, promoting conversion and adoption of key stages.
+- I usually write a lot of Ruby, Python and C++. Although I have been working on a few projects in Go.
+- You can reach out to me on [LinkedIn](https://www.linkedin.com/in/bhushan-khanale/) or through my [email](mailto:hello@bhushankhanale.com).
